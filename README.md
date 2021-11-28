@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Xaateh
-- 👀 I’m interested in games
-- 🌱 I’m currently learning html
-- 📫 How to reach me discord
