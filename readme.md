@@ -6,4 +6,5 @@
 uh i live in uk and play games
 
 ## My Friends
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+
+[Link text Here](https://link-url-here.org)
