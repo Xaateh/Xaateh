@@ -1,4 +1,11 @@
-# i am xaateh
-- 👀 I’m interested in 🎮 Games 🎮
-- 🌱 I’m currently learning Python 🎡
-- 📫 You can reach out to me from my discord Xath#5408
+# Xaateh
+> Im Currently learning Python
+
+## About me
+
+uh i live in uk and play games
+
+## My Friends!
+
+[MiniOOF/18O4] (https://github.com/18O4)
+[COSMIC] (https://github.com/cosmic-vfx/)
