@@ -1,9 +1,9 @@
 # Xaateh
-> Im uh cool i guess idk
+> Im uh xaateh
 
 ## About me
 
-uh i live in my bin bag
+i like games and yeah
 
 ## My Friends
 
