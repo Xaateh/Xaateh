@@ -1,9 +1,9 @@
 # Xaateh
-> Im Currently learning Python
+> Im uh cool i guess idk
 
 ## About me
 
-uh i live in uk and play games
+uh i live in my bin bag
 
 ## My Friends
 
