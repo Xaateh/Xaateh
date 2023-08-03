@@ -1,5 +1,5 @@
 # Xaateh
-> Im uh xaateh
+> xaateh
 
 ## About me
 
