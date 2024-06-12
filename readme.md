@@ -9,5 +9,5 @@ i like games and yeah
 
 + [18O4](https://github.com/18O4)
 + [Cosmic](https://github.com/cosrnic)
-+ [IuCC](https://github.com/IuCC123)
++ [Me](https://github.com/xaateh)
 + [Albie](https://github.com/AlbieGames)
